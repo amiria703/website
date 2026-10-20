@@ -3,4 +3,4 @@ title: About
 type: about
 ---
 
-This is the about page.
+I'm a software engineer, currently doing multiple stuff including GIS, data works and etc.
